@@ -16,8 +16,8 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      <version name="1.0" author="RIPO" time="2023-07-19T16:04:32Z">
+        <source main="main">https://github.com/GwenTerroir/RIPO_Scripts_Public/blob/master/MainFunctions/RIPO_Safecopy.lua</source>
       </version>
     </reapack>
   </category>
